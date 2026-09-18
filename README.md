@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<title >Naruto Shiden Cadastro </title>
+<meta name="Descrição" content="Naruto Shiden é um jogo de luta baseado no anime Naruto.">
+<link rel="stylesheet" href="style.css">
+</head>
+
+</body> 
+    <header>    
+        <h1 style="color: white;"><strong>HTML</strong></h1>
+        <p style="color: white;">Bem-vindos ao meu teste  </p>
+    </header>
+    <main>
+        <section>
+            <h1 style="color: white;">LOGIN  </h1>
+            <form>
+                <label style="color: white;" for="username">Nome de usuário:</label>
+                <input type="text" id="username" name="username" required><br>
+                <label style="color: white;" for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br>
+                <label style="color: white;" for="password">Senha:</label>
+                <input type="password" id="password" name="password" required><br>
+                <button     type="submit" style="color: white; background-color: #c53603; border: none; padding: 10px 20px; cursor: pointer; border-radius: 300px;"><strong> <a href="site.html">Cadastrar</a></strong></button>
+            </form>
+        </section>
+    </main>   
+    <footer>
+        <h5 style="color: white;">© 2026 Rafael Antonio. Todos os direitos reservados.</h5>
+    </footer>
+</body>
+
+    </html> 
